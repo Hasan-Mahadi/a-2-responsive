@@ -68,8 +68,15 @@ img {
 
 /* step-2 */
 
+
+.contain {
+    display: grid;
+
+}
+
 .container-2 {
     display: flex;
+
 
 }
 
@@ -103,13 +110,92 @@ img {
     border: none;
     color: #FFFFFF;
 }
-.ll{
+
+.ll {
     margin-right: 301px;
     margin-top: 283px;
-    
+
 }
-.grd{
+
+.grd {
     margin-left: 60px;
     margin-top: 85px;
     margin: right 73px;
+
+}
+
+/* 3rd-step */
+
+
+
+h2 {
+    color: #131313;
+    font-weight: 700;
+    font-size: 45px;
+}
+
+.rr {
+    color: #727272;
+    font-weight: 400;
+    height: 78px;
+    font-size: 16px;
+}
+
+.jj {
+    width: 586px;
+    height: 171px;
+    left: 290px;
+
+}
+
+.lo {
+    width: 586px;
+    height: 171px;
+    left: 290px;
+}
+
+.ko {
+    width: 586px;
+    height: 171px;
+    left: 290px;
+}
+
+.po {
+    width: 586px;
+    height: 171px;
+    left: 290px;
+}
+
+.oop {
+    display: flex;
+
+}
+
+.uui {
+
+    width: 800px;
+    height: 1059px;
+    left: 930px;
+}
+
+.ro {
+    margin-left: 160px;
+    width: 586px;
+    height: 982px;
+    left: 290px;
+}
+
+/* 4th-step */
+.xx {
+    margin-left: 160px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #131313
+}
+
+.ww {
+    color: #727272;
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 150px;
 }
