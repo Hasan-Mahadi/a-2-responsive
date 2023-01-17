@@ -1,0 +1,115 @@
+/* bennar */
+
+
+
+.banner {
+
+    background: rgba(255, 144, 14, 0.1);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 200px;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li {
+    list-style: none;
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.title-nav {
+    font-weight: 700;
+    font-size: 30px;
+    color: #131313;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 64px;
+}
+
+.middle {
+    text-align: center;
+
+}
+
+.btn {
+    text-align: center;
+
+
+}
+
+#btn1 {
+    width: 180px;
+    height: 64px;
+    color: #FFFFFF;
+
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+}
+
+img {
+    padding: 50px;
+    border-radius: 8px;
+
+
+
+}
+
+/* step-2 */
+
+.container-2 {
+    display: flex;
+
+}
+
+.bd {
+    font-weight: 700;
+    font-size: 45px;
+    left: 1085px;
+    top: 1605px;
+    color: #727272;
+}
+
+.gh {
+    color: #FF900E;
+}
+
+.yy {
+    color: #131313;
+}
+
+.gg {
+    font-weight: 400;
+    font-size: 16px;
+    color: #727272;
+}
+
+.bt {
+    width: 180px;
+    height: 64.84px;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+}
+.ll{
+    margin-right: 301px;
+    margin-top: 283px;
+    
+}
+.grd{
+    margin-left: 60px;
+    margin-top: 85px;
+    margin: right 73px;
+}
