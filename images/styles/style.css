@@ -186,6 +186,33 @@ h2 {
 }
 
 /* 4th-step */
+
+.ty{
+
+    text-align: center;
+    
+}
+.year {
+    width: 342px;
+    height: 200px;
+    background: #FF900E;
+    border-radius: 8px;
+    border: none;
+    justify-content: center;
+}
+
+.do {
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+
+.do1 {
+    font-weight: 500;
+    font-size: 25px;
+    color: #FFFFFF;
+}
+
 .xx {
     margin-left: 160px;
     font-weight: 700;
@@ -199,3 +226,7 @@ h2 {
     font-size: 16px;
     margin-left: 150px;
 }
+
+/* step-5 start */
+
+..
